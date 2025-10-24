@@ -1,4 +1,5 @@
-在 WSL 内：
+在 WSL 内：啊啊啊啊啊
 echo "DISPLAY=$DISPLAY  WAYLAND_DISPLAY=$WAYLAND_DISPLAY  XDG_RUNTIME_DIR=$XDG_RUNTIME_DIR"
 
 ls -l /dev/dxg || echo "/dev/dxg missing"
+
